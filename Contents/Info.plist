@@ -37,15 +37,15 @@
   <string>agent</string>
 
   <!-- This is used to send plugin log statements directly to stout when running PMS from the command line. Rarely used anymore-->
-	<key>CFBundleIdentifier</key>
-	<string>com.plexapp.agents.douban</string>
+  <key>CFBundleIdentifier</key>
+  <string>com.plexapp.agents.douban</string>
 	
-	<key>PlexFrameworkVersion</key>
-	<string>2</string>
+  <key>PlexFrameworkVersion</key>
+  <string>2</string>
 
-	<key>PlexAgentAttributionText</key>
-	<string>Ratings, genres and posters from &lt;a href="http://www.douban.com"&gt;豆瓣Douban&lt;/a&gt;</string>
-	<string>评分、电影类型、海报等信息来源于 &lt;a href="http://www.douban.com"&gt;豆瓣Douban&lt;/a&gt;，
+  <key>PlexAgentAttributionText</key>
+  <string>Ratings, genres and posters from &lt;a href="http://www.douban.com"&gt;豆瓣Douban&lt;/a&gt;</string>
+  <string>评分、电影类型、海报等信息来源于 &lt;a href="http://www.douban.com"&gt;豆瓣Douban&lt;/a&gt;，
 
 更多PLEX中文插件、使用教程，请访问&lt;a href="http://www.plexmedia.cn"&gt;PLEX中文网&lt;/a&gt;</string>
 </dict>
